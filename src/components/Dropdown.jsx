@@ -14,7 +14,7 @@ function Dropdown() {
         Toggle Dropdown
       </button>
       {isOpen && (
-        <div className="absolute top-8 left-0 space-y-1">
+        <div className="absolute top-8 left-0">
           <div className="w-[35px] h-[2px] bg-white"></div>
           <div className="w-[35px] h-[2px] bg-white"></div>
           <div className="w-[35px] h-[2px] bg-white"></div>
