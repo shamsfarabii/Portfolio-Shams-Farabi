@@ -1,4 +1,4 @@
-import { useState } from 'react';
+import { useEffect, useState } from 'react';
 
 export default function Navbar() {
   const [check, setCheck] = useState(false);
@@ -7,6 +7,10 @@ export default function Navbar() {
   const toggleMenu = () => {
     setCheck(!check);
   };
+
+  useEffect(() => {
+    // setCheck(false);
+  }),[];
 
   return (
     <div>
@@ -31,7 +35,7 @@ export default function Navbar() {
       </div>
 
       {check && (
-        <div className='flex flex-col items-center h-[200px] bg-black p-4 text-center text-white animate-fade-down font-bold space-y-2'>
+        <div className='flex flex-col items-center h-60 bg-black p-4 text-center text-white animate-fade-down font-bold space-y-4'>
           <a href='#about'>About</a>
           <a href='#work'>Experience</a>
           <a href='#testimonials'>Achievements</a>
