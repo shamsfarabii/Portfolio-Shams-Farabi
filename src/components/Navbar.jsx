@@ -40,7 +40,7 @@ export default function Navbar() {
           <a href='#work'>Experience</a>
           <a href='#testimonials'>Achievements</a>
           <a href='#contact'>Contact</a>
-          <a href='https://drive.google.com/file/d/12pSO_azL0tpikuDgm2HcVEgpigScMnxZ/view?usp=sharing' className='bg-white text-black w-[120px] rounded-lg'>Download CV</a>
+          <a href='https://drive.google.com/file/d/1a1bgaOkRM-Cfz51G1Nlb5L1NbprTBpCs/view' className='bg-white text-black w-[120px] rounded-lg'>Download CV</a>
         </div>
       )}
     </div>
