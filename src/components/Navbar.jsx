@@ -24,7 +24,7 @@ export default function Navbar() {
           <a href='#testimonials'>Achievements</a>
           <a href='#contact'>Contact</a>
         </div>
-        <a href='https://drive.google.com/file/d/12pSO_azL0tpikuDgm2HcVEgpigScMnxZ/view?usp=sharing' target="_blank" className='hidden md:flex items-center animate-fade-right' rel="noreferrer">
+        <a href='https://drive.google.com/file/d/1a1bgaOkRM-Cfz51G1Nlb5L1NbprTBpCs/view' target="_blank" className='hidden md:flex items-center animate-fade-right' rel="noreferrer">
           <button className='bg-white p-2 font-bold rounded-md'>Download CV</button>
         </a>
         <div className='space-y-1 md:hidden' onClick={toggleMenu}>
