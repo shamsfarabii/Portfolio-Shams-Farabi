@@ -5,7 +5,7 @@ export default function Hero() {
         <div id='Hero' className='bg-slate-900'>
             <div className='md:flex md:flex-row-reverse items-center justify-center lg:h-[450px] animate-fade text-white'>
                 <div className='flex items-center justify-center md:w-1/2 animate-fade-right pt-20'>
-                    <img src="/public/assets/Farabi.jpg" alt="" className='w-[300px] h-[300px] rounded-full' />
+                    <img src="https://previews.dropbox.com/p/thumb/ACZwTy3xi9X9azSw8L0Ee4oYgIb0ppFACrXjfLglezO1gOhy7MoMzQy0jQF6l2j0hgdVQwQqvG9SVcSz8pMfIgMQU_G4KZH8YvPP9_zraBxFhbSo_VTpt2XJaY7i4QNrAERJuynOv7yUi1_8CIdzpIQ1TxmqAFqTDTn9j16o00l-zKzuDdNjpKvwc06tQ56J0D5sV6wVET7BIp6kCGp0JL1YHwaV84gmmrc04x7Y_Mgn-xfvbaTOgG7OA4ZQGKFpDCgFa92COMVvpqEI4YNXK_FkLPA80reCLyzJxEgoIz4Vd1lSPayn9podravaRcKyLiEuXfY7VSgf_HtRglmF7ZTW/p.jpeg?is_prewarmed=true" alt="" className='w-[300px] h-[300px] rounded-full' />
                 </div>
                 <div className='md:w-1/2 flex flex-col items-center justify-center'>
                     <div className='flex items-center lg:mt-20 mt-5 md:ml-10 md:mt-20 animate-fade-left justify-center'>

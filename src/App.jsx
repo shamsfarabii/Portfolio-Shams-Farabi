@@ -3,7 +3,6 @@ import Hero from "./components/Hero"
 import Tech from "./components/Tech"
 import Experience from "./components/Experience"
 import Footer from "./components/Footer";
-import Achievements from "./components/Achievements";
 
 function App() {
   return (
