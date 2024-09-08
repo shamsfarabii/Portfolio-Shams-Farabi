@@ -16,12 +16,12 @@ export default function Navbar() {
     <div>
       <div className='flex h-16 bg-slate-900 border-b border-slate-500 border-opacity-50 justify-between p-4 items-center'>
         <div className='flex items-center'>
-          <h1 className='text-xl text-white animate-fade-up'>{"< Shams Farabi />"}</h1>
+          <img src='/public/assets/signature.png'></img>
         </div>
         <div className='hidden md:flex text-white items-center space-x-7 animate-fade-left font-bold'>
           <a href='#Hero'>About</a>
           <a href='#work'>Experience</a>
-          <a href='#testimonials'>Achievements</a>
+          <a href='#achievements'>Achievements</a>
           <a href='#contact'>Contact</a>
         </div>
         <a href='https://drive.google.com/file/d/1a1bgaOkRM-Cfz51G1Nlb5L1NbprTBpCs/view' target="_blank" className='hidden md:flex items-center animate-fade-right' rel="noreferrer">

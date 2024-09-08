@@ -1,14 +1,14 @@
 import { LinearGradient } from 'react-text-gradients';
 
-export default function Experience() {
+export default function Achievements() {
   return (
-    <div id='work'>
+    <div id='achievements'>
       <div className="w-full flex flex-col lg:flex-row bg-black text-white animate-jump-in">
         <div className="flex flex-col items-center justify-center lg:h-[400px] w-full">
           <div className="text-center">
             <h1 className="text-3xl mb-6">
               <LinearGradient gradient={['to left', '#17acff ,#ff68f0']}>
-                Experiences
+                Achievements
               </LinearGradient>
             </h1>
           </div>
