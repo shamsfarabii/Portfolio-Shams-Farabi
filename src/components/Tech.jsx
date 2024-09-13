@@ -3,10 +3,10 @@ import { LinearGradient } from 'react-text-gradients'
 export default function Tech() {
   return (
     <div>
-      <div className="w-full lg:flex bg-black text-white pt-[5px] animate-jump-in">
-        <div className="flex flex-col items-center justify-center h-[400px] lg:w-1/2 m-[30px]  lg:space-y-10">
-          <div className="text-center pt-[20px]">
-            <h1 className='mt-[-60px] text-3xl text-center'>
+      <div className="w-full lg:flex bg-black text-white animate-jump-in">
+        <div className="flex flex-col items-center justify-center h-[400px] lg:w-1/2 mx-[30px] mb-[30px]  lg:space-y-10">
+          <div className="text-center lg:mb-10">
+            <h1 className=' text-3xl text-center'>
               <LinearGradient gradient={['to left', '#17acff ,#ff68f0']}>
                 Key Technologies
               </LinearGradient>

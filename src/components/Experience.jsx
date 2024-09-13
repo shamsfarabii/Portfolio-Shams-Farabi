@@ -12,7 +12,7 @@ export default function Experience() {
               </LinearGradient>
             </h1>
           </div>
-          <div className="flex flex-col items-center justify-center w-full gap-12 bg-slate-900 py-16 mb-12">
+          <div className="flex flex-col items-center justify-center w-full gap-12 bg-slate-900 py-16">
             <div className="flex flex-col lg:flex-row gap-4 lg:gap-10 justify-center items-center w-full">
               <div className="flex flex-col justify-center w-2/3 lg:w-1/3 items-center">
                 <img
