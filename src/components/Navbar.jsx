@@ -16,7 +16,7 @@ export default function Navbar() {
     <div>
       <div className='flex h-16 bg-slate-900 border-b border-slate-500 border-opacity-50 justify-between p-4 items-center'>
         <div className='flex items-center'>
-          <img src='/public/assets/signature.png'></img>
+          <img src='/signature.png'></img>
         </div>
         <div className='hidden md:flex text-white items-center space-x-7 animate-fade-left font-bold'>
           <a href='#Hero'>About</a>
