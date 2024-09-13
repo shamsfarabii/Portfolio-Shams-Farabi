@@ -16,7 +16,7 @@ export default function Experience() {
             <div className="flex flex-col lg:flex-row gap-4 lg:gap-10 justify-center items-center w-full">
               <div className="flex flex-col justify-center w-2/3 lg:w-1/3 items-center">
                 <img
-                  src="/public/assets/companyLogo/brownbrick.svg"
+                  src="/brownbrick.svg"
                   alt="BrownBrick"
                   width="300"
                   height="300"
@@ -32,7 +32,7 @@ export default function Experience() {
             <div className="flex flex-col lg:flex-row gap-10 lg:gap-10 justify-center items-center w-full">
               <div className="flex flex-col items-center justify-center w-2/3 lg:w-1/3">
                 <img
-                  src="/public/assets/companyLogo/liberate-labs.svg"
+                  src="/liberate-labs.svg"
                   alt="Liberate Labs"
                   width="300"
                   height="300"

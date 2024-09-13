@@ -23,7 +23,7 @@ export default function Tech() {
             </div>
             <div className="flex flex-col items-center gap-2 text-center text-sm">
               <img
-                src="/public/assets/technologies/next-js.svg"
+                src="/next-js.svg"
                 alt="nextJS"
                 width="80"
                 height="80"
@@ -31,7 +31,7 @@ export default function Tech() {
             </div>
             <div className="flex flex-col items-center gap-2 text-center text-sm">
               <img
-                src="/public/assets/technologies/react.svg"
+                src="/react.svg"
                 alt="react"
                 width="80"
                 height="80"
@@ -39,7 +39,7 @@ export default function Tech() {
             </div>
             <div className="flex flex-col items-center gap-2 text-center text-sm">
               <img
-                src="/public/assets/technologies/expo-1.svg"
+                src="/expo-1.svg"
                 alt="expo"
                 width="80"
                 height="80"
@@ -47,7 +47,7 @@ export default function Tech() {
             </div>
             <div className="flex flex-col items-center gap-2 text-center text-sm">
               <img
-                src="/public/assets/technologies/fastapi-1.svg"
+                src="/fastapi-1.svg"
                 alt="fastAPI"
                 width="80"
                 height="80"
@@ -55,7 +55,7 @@ export default function Tech() {
             </div>
             <div className="flex flex-col items-center gap-2 text-center text-sm">
               <img
-                src="/public/assets/technologies/postgresql.svg"
+                src="/postgresql.svg"
                 alt="postgres"
                 width="80"
                 height="80"
@@ -63,7 +63,7 @@ export default function Tech() {
             </div>
             <div className="flex flex-col items-center gap-2 text-center text-sm">
               <img
-                src="/public/assets/technologies/flutter-logo.svg"
+                src="/flutter-logo.svg"
                 alt="flutter"
                 width="60"
                 height="60"
@@ -71,7 +71,7 @@ export default function Tech() {
             </div>
             <div className="flex flex-col items-center gap-2 text-center text-sm">
               <img
-                src="/public/assets/technologies/mongo.svg"
+                src="/mongo.svg"
                 alt="mongo"
                 width="80"
                 height="80"

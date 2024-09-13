@@ -5,7 +5,7 @@ export default function Hero() {
         <div id='Hero' className='bg-slate-900'>
             <div className='md:flex md:flex-row-reverse items-center justify-center lg:h-[450px] animate-fade text-white'>
                 <div className='flex items-center justify-center md:w-1/2 animate-fade-right pt-20'>
-                    <img src="/public/assets/Farabi.jpg" alt="" className='w-[300px] h-[300px] rounded-full' />
+                    <img src="/Farabi.jpg" alt="" className='w-[300px] h-[300px] rounded-full' />
                 </div>
                 <div className='md:w-1/2 flex flex-col items-center justify-center'>
                     <div className='flex items-center lg:mt-20 mt-5 md:ml-10 md:mt-20 animate-fade-left justify-center'>
