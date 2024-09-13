@@ -1,16 +1,12 @@
-import { useEffect, useState } from 'react';
+import { useState } from 'react';
 
 export default function Navbar() {
   const [check, setCheck] = useState(false);
 
-  // Function to toggle the mobile menu
   const toggleMenu = () => {
     setCheck(!check);
   };
 
-  useEffect(() => {
-    // setCheck(false);
-  }),[];
 
   return (
     <div>

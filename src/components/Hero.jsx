@@ -21,7 +21,7 @@ export default function Hero() {
                     </div>
                     <div className='mt-5 ml-10 mr-10 mb-20 md:mr-0 animate-fade-left text-xl leading-loose text-center'>
                         <p>
-                            I&apos;m a <span className='font-bold text-blue-400'>Software Engineer</span> with a passion for <span className='text-yellow-200'>problem-solving</span> and <span className='text-yellow-200'>innovative thinking</span>. My software engineering exposed me to diverse technical challenges, and I&apos;m committed to continuous learning and knowledge sharing. I thrive on crafting innovative solutions and cultivating a collaborative work atmosphere.
+                            I&apos;m a <span className='font-bold text-blue-400'>Software Engineer</span> with a passion for <span className='text-yellow-200'>solving problem</span> and <span className='text-yellow-200'>innovative thinking</span>. My software engineering exposed me to diverse technical challenges, and I&apos;m committed to continuous learning and knowledge sharing. I thrive on crafting innovative solutions and cultivating a collaborative work atmosphere.
                         </p>
                     </div>
                 </div>
